@@ -911,7 +911,7 @@ body div#DonInfo a {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  width: 286px;
+  width: 160px;
   height: 36px !important;
   line-height: 36px !important;
   vertical-align: middle;
@@ -1006,13 +1006,7 @@ ul.potato-menu ul.potato-menu-group a {
   content: "Points Store";
   pointer-events: none;
   font-size: 13px;
-  width: 143px;
-  text-align: center;
   display: block;
-}
-
-#nav_user ul {
-  margin-left: -143px;
 }
 
 .alertbar {
