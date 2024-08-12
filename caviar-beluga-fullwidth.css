@@ -1425,9 +1425,6 @@ input[value="Make Default"] {
   margin-left: -0.6em;
 }
 
-.filter_torrents {
-  width: 1001px;
-}
 .filter_torrents > .box {
   margin-top: 2px;
   margin-bottom: 5px;
