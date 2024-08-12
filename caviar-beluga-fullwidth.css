@@ -1416,8 +1416,6 @@ body#torrents .colhead td[style="text-align:right"] {
 @media (min-width: 1221px) {
   body#torrents #torrent_table {
     position: relative;
-    left: -81px;
-    width: 1163px;
   }
 }
 
